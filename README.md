@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm Suraj!
+
+💫  CSE-AIML student   
+Love working on unique projects and Exploring stuff in Tech.
+
+---
+
+## 🌐 Socials
+
+
+---
+
+# 💻 Tech Stack
+
+
+---
+
+# 📊 GitHub Stats
+
+
+---
+
+## 🚀 Featured Projects
+
+
+---
+
+## 🛣️ 2025 Learning Path
+
+---
+
+![](https://visitcount.itsvg.in)
 
 <!--
 **surajcd17/surajcd17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
