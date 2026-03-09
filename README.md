@@ -27,6 +27,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
+## 📊 GitHub Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=surajcd17&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00FF88)](https://git.io/streak-stats)
+
+---
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajcd17)  
