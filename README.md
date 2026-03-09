@@ -29,7 +29,9 @@
 ---
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=surajcd17&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00FF88)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=surajcd17&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=surajcd17&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajcd17&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
