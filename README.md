@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 Second-year **CSE-AIML** student  
+- 🎓 Third-year **CSE-AIML** student  
 - 💻 Interested in **AI/ML** and **Web Development**  
 - 🌱 Currently learning **Python, C, JavaScript, MERN Stack**  
 - 📫 Email: **surajcd17@gmail.com**
